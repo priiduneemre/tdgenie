@@ -7,7 +7,7 @@ Features:
   *Respectable range of options & modability 
   *Uses the "Fluent interface" approach - code is easy to read and write
 
-Perfect for testing various Java webapps &amp; databases. The generated data is returned as Java collections stored in RAM: 
+Perfect for testing Java webapps &amp; various databases. The generated data is returned as Java collections stored in RAM: 
 no built-in method for writing to disk (e.g. txt, csv) is currently provided. Some basic usage examples can be found in the
 "TestMain" class (located in the "src" folder, package "ee.nemp.tdgenie")
 
