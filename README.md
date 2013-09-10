@@ -5,7 +5,7 @@ A micro-library that provides capabilities for generating different types of tes
 
 Features:
 * Very lightweight - no additional dependencies required
-* Respectable range of options & modability
+* Reasonable range of options & modability
 * Uses the _Fluent interface_ approach - code is easy to read and write
   
 
