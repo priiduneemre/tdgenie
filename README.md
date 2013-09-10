@@ -13,4 +13,4 @@ Perfect for testing Java webapps &amp; various databases. The generated data is 
 no built-in method for writing to disk (e.g. txt, csv) is currently provided. Some basic usage examples can be found in the
 **_TestMain_** class (located in the **_src_** folder, package **_ee.nemp.tdgenie_**)
 
-PS. This software is a work in progress - it may contain major bugs & other notable shortcomings.
+_P.S. This software is a work in progress - it may contain major bugs & other notable shortcomings._
