@@ -3,11 +3,12 @@ tdgenie - (Test data genie)
 A micro-library that provides capabilities for generating different types of test data. 
 
 
+
 Features:
 * Very lightweight - no additional dependencies required
 * Reasonable range of options & modability
 * Utilizes the _Fluent interface_ approach - code is easy to read and write
-* Conveniently extendable to suit your own needs
+* Conveniently extendable to suit your specific needs
   
 
 Perfect for testing Java webapps &amp; various databases. The generated data is returned as Java collections stored in RAM: 
