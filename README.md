@@ -21,7 +21,7 @@ Basic usage examples can be found in the **_TestMain_** class (located in the **
 
 _Conceptual overview of the 'tdgenie' library (as of v. 0.5.1)._
 ![alt text](https://github.com/priiduneemre/tdgenie/raw/master/misc/img/tdgenie_conceptual_classdiagram_11092013.png 
-"_tdgenie_ conceptual class diagram (v. 0.5.1)")
+"tdgenie conceptual class diagram (v. 0.5.1)")
 
 
 
