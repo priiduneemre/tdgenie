@@ -19,4 +19,4 @@ Basic usage examples can be found in the **_TestMain_** class (located in the **
 
 
 
-_P.S. This software is a work in progress - it may contain major bugs & other notable shortcomings._
+_P.S. This software is a work in progress - it may contain unwanted "features" & other notable shortcomings._
