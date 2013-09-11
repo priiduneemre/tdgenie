@@ -7,6 +7,7 @@ Features:
 * Very lightweight - no additional dependencies required
 * Reasonable range of options & modability
 * Utilizes the _Fluent interface_ approach - code is easy to read and write
+* Easily extendable to suit your own needs
   
 
 Perfect for testing Java webapps &amp; various databases. The generated data is returned as Java collections stored in RAM: 
