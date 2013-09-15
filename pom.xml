@@ -6,6 +6,7 @@
 	<version>0.5.1</version>
 	<name>tdgenie</name>
 	<description>A micro-library that provides capabilities for generating different types of test data. </description>
+	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
