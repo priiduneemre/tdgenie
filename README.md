@@ -1,6 +1,6 @@
 tdgenie - (Test data genie)
 =======
-A micro-library that provides capabilities for generating different types of test data. 
+A minimalistic library for generating various types of test data in Java. 
 
 
 
